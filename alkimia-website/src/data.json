@@ -1,0 +1,16 @@
+{
+    "home" : {
+        "navbar" :{},
+        "title" : "Pagania Chapter",
+        "image" : {
+            "title" : "edward",
+            "src": "img.jpg"
+        }
+    },
+    "members" : {
+        "undergraduate" : {},
+        "alumni" : {},
+        "hall of fame" : {}
+    }
+    
+}
